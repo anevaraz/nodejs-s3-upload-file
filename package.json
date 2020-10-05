@@ -5,7 +5,8 @@
   "author": "Daniel Fernandez",
   "license": "MIT",
   "scripts": {
-    "dev": "nodemon"
+    "dev": "nodemon",
+    "start": "node server.js"
   },
   "dependencies": {
     "aws-sdk": "^2.761.0",
