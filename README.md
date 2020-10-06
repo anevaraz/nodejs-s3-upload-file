@@ -14,7 +14,7 @@
 
 :heavy_check_mark: Project running at:
 
-      *http://localhost:4000*
+    *http://localhost:4000*
 
 :heavy_check_mark: Import file "import_insomnia_workspace" into Insomnia.
 
