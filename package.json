@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "nodemon",
-    "start": "node server.js"
+    "start": "node src/server.js"
   },
   "dependencies": {
     "aws-sdk": "^2.761.0",
